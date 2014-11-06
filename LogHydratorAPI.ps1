@@ -97,7 +97,7 @@ $value[10] = @(
 ###case function sample###
 
 ###SELECT LOG FILE###
-$in = "C:\Users\layton_shurtleff\Desktop\test.log"
+$in = "C:\test.log"
 write-host $in
 $log = get-content $in
 ###select log file###
